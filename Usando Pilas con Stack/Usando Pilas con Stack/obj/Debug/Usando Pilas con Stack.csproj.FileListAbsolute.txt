@@ -1,0 +1,14 @@
+C:\Users\hacker\Desktop\Escuela\Usando Pilas con Stack\Usando Pilas con Stack\bin\Debug\Usando Pilas con Stack.exe.config
+C:\Users\hacker\Desktop\Escuela\Usando Pilas con Stack\Usando Pilas con Stack\bin\Debug\Usando Pilas con Stack.exe
+C:\Users\hacker\Desktop\Escuela\Usando Pilas con Stack\Usando Pilas con Stack\bin\Debug\Usando Pilas con Stack.pdb
+C:\Users\hacker\Desktop\Escuela\Usando Pilas con Stack\Usando Pilas con Stack\obj\Debug\Usando Pilas con Stack.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Escuela\Usando Pilas con Stack\Usando Pilas con Stack\obj\Debug\Usando Pilas con Stack.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Escuela\Usando Pilas con Stack\Usando Pilas con Stack\obj\Debug\Usando Pilas con Stack.exe
+C:\Users\hacker\Desktop\Escuela\Usando Pilas con Stack\Usando Pilas con Stack\obj\Debug\Usando Pilas con Stack.pdb
+F:\Usando Pilas con Stack\Usando Pilas con Stack\bin\Debug\Usando Pilas con Stack.exe.config
+F:\Usando Pilas con Stack\Usando Pilas con Stack\bin\Debug\Usando Pilas con Stack.exe
+F:\Usando Pilas con Stack\Usando Pilas con Stack\bin\Debug\Usando Pilas con Stack.pdb
+F:\Usando Pilas con Stack\Usando Pilas con Stack\obj\Debug\Usando Pilas con Stack.csprojAssemblyReference.cache
+F:\Usando Pilas con Stack\Usando Pilas con Stack\obj\Debug\Usando Pilas con Stack.csproj.CoreCompileInputs.cache
+F:\Usando Pilas con Stack\Usando Pilas con Stack\obj\Debug\Usando Pilas con Stack.exe
+F:\Usando Pilas con Stack\Usando Pilas con Stack\obj\Debug\Usando Pilas con Stack.pdb
