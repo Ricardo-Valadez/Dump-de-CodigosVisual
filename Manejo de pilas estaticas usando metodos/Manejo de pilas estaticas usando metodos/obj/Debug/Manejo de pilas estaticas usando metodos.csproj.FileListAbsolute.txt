@@ -1,0 +1,14 @@
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\obj\Debug\Manejo de pilas estaticas usando metodos.csprojAssemblyReference.cache
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\obj\Debug\Manejo de pilas estaticas usando metodos.csproj.CoreCompileInputs.cache
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\bin\Debug\Manejo de pilas estaticas usando metodos.exe.config
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\bin\Debug\Manejo de pilas estaticas usando metodos.exe
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\bin\Debug\Manejo de pilas estaticas usando metodos.pdb
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\obj\Debug\Manejo de pilas estaticas usando metodos.exe
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\obj\Debug\Manejo de pilas estaticas usando metodos.pdb
+E:\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\bin\Debug\Manejo de pilas estaticas usando metodos.exe.config
+E:\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\bin\Debug\Manejo de pilas estaticas usando metodos.exe
+E:\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\bin\Debug\Manejo de pilas estaticas usando metodos.pdb
+E:\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\obj\Debug\Manejo de pilas estaticas usando metodos.csprojAssemblyReference.cache
+E:\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\obj\Debug\Manejo de pilas estaticas usando metodos.csproj.CoreCompileInputs.cache
+E:\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\obj\Debug\Manejo de pilas estaticas usando metodos.exe
+E:\Manejo de pilas estaticas usando metodos\Manejo de pilas estaticas usando metodos\obj\Debug\Manejo de pilas estaticas usando metodos.pdb

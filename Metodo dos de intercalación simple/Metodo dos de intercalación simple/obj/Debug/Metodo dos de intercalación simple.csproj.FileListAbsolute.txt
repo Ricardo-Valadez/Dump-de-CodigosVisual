@@ -1,0 +1,7 @@
+C:\Users\hacker\Desktop\Escuela\Metodo dos de intercalación simple\Metodo dos de intercalación simple\bin\Debug\Metodo dos de intercalación simple.exe.config
+C:\Users\hacker\Desktop\Escuela\Metodo dos de intercalación simple\Metodo dos de intercalación simple\bin\Debug\Metodo dos de intercalación simple.exe
+C:\Users\hacker\Desktop\Escuela\Metodo dos de intercalación simple\Metodo dos de intercalación simple\bin\Debug\Metodo dos de intercalación simple.pdb
+C:\Users\hacker\Desktop\Escuela\Metodo dos de intercalación simple\Metodo dos de intercalación simple\obj\Debug\Metodo dos de intercalación simple.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Escuela\Metodo dos de intercalación simple\Metodo dos de intercalación simple\obj\Debug\Metodo dos de intercalación simple.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Escuela\Metodo dos de intercalación simple\Metodo dos de intercalación simple\obj\Debug\Metodo dos de intercalación simple.exe
+C:\Users\hacker\Desktop\Escuela\Metodo dos de intercalación simple\Metodo dos de intercalación simple\obj\Debug\Metodo dos de intercalación simple.pdb

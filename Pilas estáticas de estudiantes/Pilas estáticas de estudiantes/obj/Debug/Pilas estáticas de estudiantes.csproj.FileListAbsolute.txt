@@ -1,0 +1,7 @@
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Pilas estáticas de estudiantes\Pilas estáticas de estudiantes\bin\Debug\Pilas estáticas de estudiantes.exe.config
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Pilas estáticas de estudiantes\Pilas estáticas de estudiantes\bin\Debug\Pilas estáticas de estudiantes.exe
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Pilas estáticas de estudiantes\Pilas estáticas de estudiantes\bin\Debug\Pilas estáticas de estudiantes.pdb
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Pilas estáticas de estudiantes\Pilas estáticas de estudiantes\obj\Debug\Pilas estáticas de estudiantes.csprojAssemblyReference.cache
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Pilas estáticas de estudiantes\Pilas estáticas de estudiantes\obj\Debug\Pilas estáticas de estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Pilas estáticas de estudiantes\Pilas estáticas de estudiantes\obj\Debug\Pilas estáticas de estudiantes.exe
+C:\Users\Richi\Desktop\Estructura de datos\Unidad 3 V\Pilas estáticas de estudiantes\Pilas estáticas de estudiantes\obj\Debug\Pilas estáticas de estudiantes.pdb
