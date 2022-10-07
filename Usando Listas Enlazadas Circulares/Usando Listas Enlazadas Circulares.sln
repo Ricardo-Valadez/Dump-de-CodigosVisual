@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usando Listas Enlazadas Circulares", "Usando Listas Enlazadas Circulares\Usando Listas Enlazadas Circulares.csproj", "{582CB2B1-59D1-4121-B75A-7561CF608419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582CB2B1-59D1-4121-B75A-7561CF608419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582CB2B1-59D1-4121-B75A-7561CF608419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582CB2B1-59D1-4121-B75A-7561CF608419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582CB2B1-59D1-4121-B75A-7561CF608419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63DF2C1-940D-498C-9513-81FF95509299}
+	EndGlobalSection
+EndGlobal

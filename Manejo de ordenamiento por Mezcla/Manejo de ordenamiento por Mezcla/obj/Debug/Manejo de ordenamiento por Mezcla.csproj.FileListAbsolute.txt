@@ -1,0 +1,7 @@
+C:\Users\hacker\Desktop\Escuela\Manejo de ordenamiento por Mezcla\Manejo de ordenamiento por Mezcla\bin\Debug\Manejo de ordenamiento por Mezcla.exe.config
+C:\Users\hacker\Desktop\Escuela\Manejo de ordenamiento por Mezcla\Manejo de ordenamiento por Mezcla\bin\Debug\Manejo de ordenamiento por Mezcla.exe
+C:\Users\hacker\Desktop\Escuela\Manejo de ordenamiento por Mezcla\Manejo de ordenamiento por Mezcla\bin\Debug\Manejo de ordenamiento por Mezcla.pdb
+C:\Users\hacker\Desktop\Escuela\Manejo de ordenamiento por Mezcla\Manejo de ordenamiento por Mezcla\obj\Debug\Manejo de ordenamiento por Mezcla.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Escuela\Manejo de ordenamiento por Mezcla\Manejo de ordenamiento por Mezcla\obj\Debug\Manejo de ordenamiento por Mezcla.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Escuela\Manejo de ordenamiento por Mezcla\Manejo de ordenamiento por Mezcla\obj\Debug\Manejo de ordenamiento por Mezcla.exe
+C:\Users\hacker\Desktop\Escuela\Manejo de ordenamiento por Mezcla\Manejo de ordenamiento por Mezcla\obj\Debug\Manejo de ordenamiento por Mezcla.pdb

@@ -1,0 +1,7 @@
+C:\Users\hacker\Desktop\Escuela\Usando busqueda secuencial\Usando busqueda secuencial\bin\Debug\Usando busqueda secuencial.exe.config
+C:\Users\hacker\Desktop\Escuela\Usando busqueda secuencial\Usando busqueda secuencial\bin\Debug\Usando busqueda secuencial.exe
+C:\Users\hacker\Desktop\Escuela\Usando busqueda secuencial\Usando busqueda secuencial\bin\Debug\Usando busqueda secuencial.pdb
+C:\Users\hacker\Desktop\Escuela\Usando busqueda secuencial\Usando busqueda secuencial\obj\Debug\Usando busqueda secuencial.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Escuela\Usando busqueda secuencial\Usando busqueda secuencial\obj\Debug\Usando busqueda secuencial.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Escuela\Usando busqueda secuencial\Usando busqueda secuencial\obj\Debug\Usando busqueda secuencial.exe
+C:\Users\hacker\Desktop\Escuela\Usando busqueda secuencial\Usando busqueda secuencial\obj\Debug\Usando busqueda secuencial.pdb

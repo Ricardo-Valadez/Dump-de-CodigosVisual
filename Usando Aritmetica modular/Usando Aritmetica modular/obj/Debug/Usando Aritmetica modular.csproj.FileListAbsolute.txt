@@ -1,0 +1,7 @@
+C:\Users\hacker\Desktop\Escuela\Usando Aritmetica modular\Usando Aritmetica modular\bin\Debug\Usando Aritmetica modular.exe.config
+C:\Users\hacker\Desktop\Escuela\Usando Aritmetica modular\Usando Aritmetica modular\bin\Debug\Usando Aritmetica modular.exe
+C:\Users\hacker\Desktop\Escuela\Usando Aritmetica modular\Usando Aritmetica modular\bin\Debug\Usando Aritmetica modular.pdb
+C:\Users\hacker\Desktop\Escuela\Usando Aritmetica modular\Usando Aritmetica modular\obj\Debug\Usando Aritmetica modular.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Escuela\Usando Aritmetica modular\Usando Aritmetica modular\obj\Debug\Usando Aritmetica modular.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Escuela\Usando Aritmetica modular\Usando Aritmetica modular\obj\Debug\Usando Aritmetica modular.exe
+C:\Users\hacker\Desktop\Escuela\Usando Aritmetica modular\Usando Aritmetica modular\obj\Debug\Usando Aritmetica modular.pdb

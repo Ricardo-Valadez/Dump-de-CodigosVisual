@@ -1,0 +1,7 @@
+C:\Users\hacker\Desktop\Escuela\Usando buqueda binaria\Usando buqueda binaria\obj\Debug\Usando buqueda binaria.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Escuela\Usando buqueda binaria\Usando buqueda binaria\obj\Debug\Usando buqueda binaria.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Escuela\Usando buqueda binaria\Usando buqueda binaria\bin\Debug\Usando buqueda binaria.exe.config
+C:\Users\hacker\Desktop\Escuela\Usando buqueda binaria\Usando buqueda binaria\bin\Debug\Usando buqueda binaria.exe
+C:\Users\hacker\Desktop\Escuela\Usando buqueda binaria\Usando buqueda binaria\bin\Debug\Usando buqueda binaria.pdb
+C:\Users\hacker\Desktop\Escuela\Usando buqueda binaria\Usando buqueda binaria\obj\Debug\Usando buqueda binaria.exe
+C:\Users\hacker\Desktop\Escuela\Usando buqueda binaria\Usando buqueda binaria\obj\Debug\Usando buqueda binaria.pdb

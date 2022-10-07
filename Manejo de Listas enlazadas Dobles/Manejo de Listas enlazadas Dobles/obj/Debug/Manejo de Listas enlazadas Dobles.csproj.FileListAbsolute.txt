@@ -1,0 +1,7 @@
+C:\Users\hacker\Desktop\Escuela\Manejo de Listas enlazadas Dobles\Manejo de Listas enlazadas Dobles\bin\Debug\Manejo de Listas enlazadas Dobles.exe.config
+C:\Users\hacker\Desktop\Escuela\Manejo de Listas enlazadas Dobles\Manejo de Listas enlazadas Dobles\bin\Debug\Manejo de Listas enlazadas Dobles.exe
+C:\Users\hacker\Desktop\Escuela\Manejo de Listas enlazadas Dobles\Manejo de Listas enlazadas Dobles\bin\Debug\Manejo de Listas enlazadas Dobles.pdb
+C:\Users\hacker\Desktop\Escuela\Manejo de Listas enlazadas Dobles\Manejo de Listas enlazadas Dobles\obj\Debug\Manejo de Listas enlazadas Dobles.csprojAssemblyReference.cache
+C:\Users\hacker\Desktop\Escuela\Manejo de Listas enlazadas Dobles\Manejo de Listas enlazadas Dobles\obj\Debug\Manejo de Listas enlazadas Dobles.csproj.CoreCompileInputs.cache
+C:\Users\hacker\Desktop\Escuela\Manejo de Listas enlazadas Dobles\Manejo de Listas enlazadas Dobles\obj\Debug\Manejo de Listas enlazadas Dobles.exe
+C:\Users\hacker\Desktop\Escuela\Manejo de Listas enlazadas Dobles\Manejo de Listas enlazadas Dobles\obj\Debug\Manejo de Listas enlazadas Dobles.pdb
